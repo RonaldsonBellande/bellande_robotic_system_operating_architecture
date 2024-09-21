@@ -4,13 +4,13 @@
 - BRSOA works in any operating system but it has its own dedicated Operating System called BellandeOS
 
 ## BRSOA File Format
-- https://github.com/RonaldsonBellande/bellande_format
+- https://github.com/Architecture-Mechanism/bellande_format
 
 ## BRSOA Scripting Language
-- https://github.com/RonaldsonBellande/bellos
+- https://github.com/Architecture-Mechanism/bellos
 
 ## BRSOA Programming Language
-- https://github.com/RonaldsonBellande/bellandeos
+- https://github.com/Architecture-Mechanism/bellandeos
 
 
 ## Publication to be Release Soon
