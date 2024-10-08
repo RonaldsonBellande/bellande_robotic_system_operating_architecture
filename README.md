@@ -10,7 +10,7 @@
 - https://github.com/Architecture-Mechanism/bellos
 
 ## BRSOA Programming Language
-- https://github.com/Architecture-Mechanism/bellandeos
+- https://github.com/Architecture-Mechanism/bellronos
 
 
 ## Publication to be Release Soon
